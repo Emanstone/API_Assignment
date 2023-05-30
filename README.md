@@ -1,0 +1,1 @@
+Build a platform, paste your endpoint, the application should download 50 questions, Save and number them,in a pdf. The application should fetch the following ; Title of Question, Total views, Read the link on the pdf, and Picture of the Question.
